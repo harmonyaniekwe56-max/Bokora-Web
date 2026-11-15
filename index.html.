@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bookora | Discover Your Next Story</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>BOOKORA</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#maker">The Maker</a>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <h2>Every Story Opens a Door.</h2>
+        <p>Discover stories. Explore books. Find your next favourite read.</p>
+        <a class="button" href="https://harmonyaniekwe56-max.github.io/bookora-library/" target="_blank">Explore Bookora</a>
+    </section>
+
+    <section id="about">
+        <h2>About Bookora</h2>
+        <p>Bookora Library is a place for readers and writers to discover stories, explore books and share their creativity.</p>
+    </section>
+
+    <section id="maker">
+        <h2>Meet the Maker</h2>
+        <p>My name is Harmony. I created Bookora with a passion for stories, creativity and the world of books.</p>
+        <p>I believe every story deserves a place to be discovered.</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Bookora. Created by Harmony.</p>
+    </footer>
+
+</body>
+</html>
